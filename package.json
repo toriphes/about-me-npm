@@ -1,0 +1,29 @@
+{
+  "name": "@toriphes/about-me-npm",
+  "version": "1.0.0",
+  "description": "A little package the prints some information about me",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1"
+  },
+  "bin": {
+    "about-me": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toriphes/about-me-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "about",
+    "me"
+  ],
+  "author": "Giulio Ganci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toriphes/about-me-npm/issues"
+  },
+  "homepage": "https://github.com/toriphes/about-me-npm#readme"
+}
