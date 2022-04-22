@@ -1,5 +1,5 @@
 {
-  "name": "@toriphes/about-me-npm",
+  "name": "@toriphes/about-me",
   "version": "1.0.0",
   "description": "A little package the prints some information about me",
   "main": "index.js",
